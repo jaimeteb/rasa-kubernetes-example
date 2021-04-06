@@ -1,6 +1,6 @@
 # Rasa Kubernetes
 
-Basic Kubernetes deployment for Rasa 1.10.1
+Basic Kubernetes deployment for Rasa 1.10.x
 
 ## Structure
 
